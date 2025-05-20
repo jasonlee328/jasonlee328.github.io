@@ -41,33 +41,7 @@ My research interests are broadly in the fields of computer vision, machine lear
 </a>
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><video id="fang2025sam2act" src='images/fang2025sam2act.mp4' alt="sym" width="100%" autoplay muted loop playsinline></video></div></div>
-<div class='paper-box-text' markdown="1">
-**SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation**
-<br><ins>Haoquan Fang</ins>, Markus Grotz, Wilbert Pumacay, Yi Ru Wang, Dieter Fox<sup>‡</sup>, Ranjay Krishna<sup>‡</sup>, Jiafei Duan<sup>‡</sup>
-<br>*International Conference on Machine Learning (ICML) 2025*
-<br>*International Conference on Learning Representations (ICLR) 2025 Workshop on Robot Learning (WRL) <span style="color:red;">Oral Spotlight</span>*
-<br>
-<a href="https://sam2act.github.io/">
-  <img src="https://img.shields.io/badge/Website-grey?logo=google-chrome&logoColor=white&labelColor=blue">
-</a>
-<a href="https://arxiv.org/abs/2501.18564">
-  <img src="https://img.shields.io/badge/arXiv-grey?logo=arxiv&logoColor=white&labelColor=red">
-</a>
-<a href="https://github.com/sam2act/sam2act">
-  <img src="https://img.shields.io/badge/Code-grey?logo=github&logoColor=white&labelColor=black">
-</a>
-<a href="https://huggingface.co/datasets/hqfang/MemoryBench">
-  <img src="https://img.shields.io/badge/MemoryBench-grey?logo=huggingface&logoColor=white&labelColor=yellow">
-</a>
-<a href="https://x.com/DJiafei/status/1884954101697699940">
-  <img src="https://img.shields.io/badge/Post-grey?logo=x&logoColor=white&labelColor=black">
-</a>
-<a href="https://hai-production.s3.amazonaws.com/files/hai_ai_index_report_2025.pdf#page=150">
-  <img src="https://img.shields.io/badge/AI Index Report-grey?logo=googledocs&logoColor=white&labelColor=313554">
-</a>
-</div>
-</div>
+
 
 ## 📖 Professional Services
 - **Conference Reviewer**
