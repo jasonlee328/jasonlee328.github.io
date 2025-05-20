@@ -45,17 +45,21 @@ My research interests are broadly in the fields of computer vision, machine lear
 
 ## 📖 Professional Services
 - **Conference Reviewer**
-  - International Conference on Learning Representations (ICLR) 2025 Workshops
   - Conference on Computer Vision and Pattern Recognition (CVPR) 2025 Workshops
 - **Teaching Assistant**
   - CSE 493G1/599G1: Deep Learning ([Spring 2025](https://courses.cs.washington.edu/courses/cse493g1/25sp/), Undergrad/Grad)
 
 ## 🎓 Education
-- **University of Washington**, *2022 - 2026 (Expected)*
+- **University of Washington**, *2024 - 2026 (Expected)*
 <br>*Bachelor of Science in Computer Science with Honors*
 <br>*Bachelor of Science in Statistics*
 <br>*Minor in Mathematics*
   - GPA: 3.99/4.00 (Straight A in All Courses), Dean’s List (All Quarters & Years)
+
+- **Boston University**, *2020 - 2024 (Expected)*
+<br>*Bachelor of Arts in Computer Science *
+
+  - GPA: 3.8/4.0, Dean’s Lists
 
 ## 💼 Industrial Experience
 - **Allen Institute for Artificial Intelligence**, *Apr 2025 - Present*
