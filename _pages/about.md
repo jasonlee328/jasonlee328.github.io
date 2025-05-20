@@ -24,7 +24,7 @@ My research interests are broadly in the fields of computer vision, machine lear
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/cheng2025pointarena.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **PointArena: Probing Multimodal Grounding Through Language-Guided Pointing**
-<br>Long Cheng\*, Jiafei Duan\*, Yi Ru Wang<sup>†</sup> , <ins>Haoquan Fang<sup>†</sup></ins> , Boyang Li<sup>†</sup>, Yushan Huang, Elvis Wang, Ainaz Eftekhar, Jason Lee, Wentao Yuan, Rose Hendrix, Noah A. Smith, Fei Xia, Dieter Fox, Ranjay Krishna
+<br>Long Cheng\*, Jiafei Duan\*, Yi Ru Wang<sup>†</sup> , Haoquan Fang<sup>†</sup> , Boyang Li<sup>†</sup>, Yushan Huang, Elvis Wang, Ainaz Eftekhar, <ins>Jason Lee</ins>, Wentao Yuan, Rose Hendrix, Noah A. Smith, Fei Xia, Dieter Fox, Ranjay Krishna
 <br>*arXiv 2025*
 <br>
 <a href="https://pointarena.github.io/">
