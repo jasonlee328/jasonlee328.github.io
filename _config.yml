@@ -25,7 +25,7 @@ author:
   avatar           : "bio-photo-real.jpg"
   name             : "Jason Lee"
   pronouns         : # example: "she/her"  
-  bio              : "Undergrad @ UW CSE & Stat</br>Research Collaborator @ Ai2 PRIOR"
+  # bio              : "Undergrad @ UW CSE & Stat</br>Research Collaborator @ Ai2 PRIOR"
   location         : 
   employer         : 
   uri              : # URL
@@ -45,7 +45,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "jasonlee328"
-  kaggle           : "jasonlee328"
+  # kaggle           : "jasonlee328"
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "jason-lee-b3479a17b"
+  linkedin         : "jasonlee328"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
