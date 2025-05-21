@@ -15,9 +15,9 @@ My research interests are broadly in the fields of computer vision, machine lear
 
 ## 🔥 News
 - **[May 2025]** Our paper *PointArena: Probing Multimodal Grounding Through Language-Guided Pointing* has been preprinted to arXiv.
-- **[May 2025]** Our paper *SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation* has been accepted to [ICML 2025](https://icml.cc/).
+<!-- - **[May 2025]** Our paper *SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation* has been accepted to [ICML 2025](https://icml.cc/).
 - **[Apr 2025]** Our paper *SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation* has been featured by [AI Index Report 2025](https://hai.stanford.edu/ai-index/2025-ai-index-report/).
-- **[Feb 2025]** Our paper *SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation* has been accepted to [WRL @ ICLR 2025](https://www.robot-learning.ml/2025/) and selected as <span style="color:red;">Oral Spotlight</span>.
+- **[Feb 2025]** Our paper *SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation* has been accepted to [WRL @ ICLR 2025](https://www.robot-learning.ml/2025/) and selected as <span style="color:red;">Oral Spotlight</span>. -->
 
 ## 📑 Selected Publications
 `*` Equal Contribution as First Authors &nbsp;&nbsp; `†` Equal Contribution as Second Authors &nbsp;&nbsp; `‡` Equal Contribution as Advisors
@@ -45,35 +45,35 @@ My research interests are broadly in the fields of computer vision, machine lear
 
 ## 📖 Professional Services
 - **Conference Reviewer**
-  - Conference on Computer Vision and Pattern Recognition (CVPR) 2025 Workshops
-- **Teaching Assistant**
-  - CSE 493G1/599G1: Deep Learning ([Spring 2025](https://courses.cs.washington.edu/courses/cse493g1/25sp/), Undergrad/Grad)
+  - Conference on Computer Vision and Pattern Recognition (CVPR) 2025 Workshop
 
 ## 🎓 Education
-- **University of Washington**, *2024 - 2026 (Expected)*
-<br>*Bachelor of Science in Computer Science with Honors*
-<br>*Bachelor of Science in Statistics*
-<br>*Minor in Mathematics*
-  - GPA: 3.99/4.00 (Straight A in All Courses), Dean’s List (All Quarters & Years)
+- **University of Washington**, *Sep 2024 - Jun 2026 (Expected)*
+<br>*Masters in Computer Engineering*
+  - Advisor Ranjay Krishna
 
-- **Boston University**, *2020 - 2024 (Expected)*
+- **Boston University**, *Sep 2020 - May 2024*
 <br>*Bachelor of Arts in Computer Science *
-
-  - GPA: 3.8/4.0, Dean’s Lists
+<br>*Cum Laude*
+<br>*Dean's List 2020 - 2024*
+  - Advisor Eshed Ohn-Bar
 
 ## 💼 Industrial Experience
-- **Allen Institute for Artificial Intelligence**, *Apr 2025 - Present*
-<br>*Research Collaborator*
-  - Worked with the [Perceptual Reasoning and Interaction Research](https://prior.allenai.org/) Team
-  - Mentored by Prof Ranjay Krishna and Dr Jiafei Duan, Sponsored by Dr Rose Hendrix
-- **Nokia Shanghai Bell**, *Jul 2023 - Aug 2023*
-<br>*Research Engineer Intern*
-  - Mentored by Dr Quan Wang, Explored on [COSMIC](https://cosmic-sizing.org/) Report Generation
+- **Allen Institute for Artificial Intelligence**, *Mar 2025 - Present*
+<br>*Research and Development Intern*
+  - Manufacturing Technology RD Department 
+  - Trained a Classification model to detect wafer scratches during the manufacturing process to improve repair and optimization processes.
 
-## 🏅 Competitions & Projects
-- INRIX Amazon University Hack 2023, **ParkinGPT** [[Website]](https://devpost.com/software/destchat/)
-- Kaggle - LLM Science Exam, **Silver Medal** (Top 4%) [[Website]](https://www.kaggle.com/competitions/kaggle-llm-science-exam/discussion/446303/)
-- RSNA Screening Mammography Breast Cancer Detection, **Solo Silver Medal** (Top 5%)
+
+- **Taiwan Semiconductor Manufacturing Company**, *Mar 2025 - Present*
+<br>*Manufacturing Department Intern*
+  - Fab 18A 
+  - Implemented Genetic Algorithm to solve lot and equipment discrepancies and improve manufacturing efficiency
+
+
+## 🏅 Teaching 
+- **Teaching Assistant**
+  - CS210: Computer Systems ([Spring 2025](https://courses.cs.washington.edu/courses/cse493g1/25sp/), Undergrad/Grad)
 
 
 <script>
