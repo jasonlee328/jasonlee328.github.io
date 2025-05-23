@@ -41,24 +41,27 @@ I am a AI and robotics researcher. I’m working with the [PRIOR](https://prior.
 ## Research Experience
 - **Allen Institute for AI**, *Jan 2025 - Present*
 <br>*PRIOR Team*
+  - Working on Robotics Foundational Models
 
 - **University of Washington**, *Jun 2024 - Present*
-<br>*RAVIN Lab*
-  - Advisor Ranjay Krishna
+<br>*RAVIN Lab with Ranjay Krishna*
+  - Working on Robotics Foundational Models
 
 - **Boston University**, *Aug 2022 - Jun 2024*
-<br>*H2X Lab*
-  - Advisor Eshed Ohn-Bar
+<br>*H2X Lab with Eshed Ohn-Bar*
+  - Worked on Autonomous Driving simulation benchmark 
 
 
 ## Education
 - **University of Washington**, *Sep 2024 - Jun 2026 (Expected)*
 <br>*Masters in Computer Engineering*
+  - Advisor Ranjay Krishna and Dieter Fox
 
 - **Boston University**, *Sep 2020 - May 2024*
 <br>*Bachelor of Arts in Computer Science*
 <br>*Cum Laude*
 <br>*Dean's List 2020 - 2024*
+  - Advisor Eshed Ohn-Bar
 
 ## Professional Services
 - **Conference Reviewer**
