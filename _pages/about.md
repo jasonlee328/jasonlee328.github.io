@@ -43,10 +43,8 @@ I am a AI and robotics researcher. I’m working with the [PRIOR](https://prior.
 <br>*PRIOR Team*
 
 - **University of Washington**, *Jun 2024 - Present*
-<br>*Ravin Lab*
+<br>*RAVIN Lab*
   - Advisor Ranjay Krishna
-<br>*RSE Lab*
-  - Advisor Dieter Fox
 
 - **Boston University**, *Aug 2022 - Jun 2024*
 <br>*H2X Lab*
