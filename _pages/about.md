@@ -54,13 +54,11 @@ I am a AI and robotics researcher. I’m working with the [PRIOR](https://prior.
 ## Education
 - **University of Washington**, *Sep 2024 - Jun 2026 (Expected)*
 <br>*Masters in Computer Engineering*
-  - Advisor Ranjay Krishna, Dieter Fox
 
 - **Boston University**, *Sep 2020 - May 2024*
 <br>*Bachelor of Arts in Computer Science*
 <br>*Cum Laude*
 <br>*Dean's List 2020 - 2024*
-  - Advisor Eshed Ohn-Bar
 
 ## Professional Services
 - **Conference Reviewer**
