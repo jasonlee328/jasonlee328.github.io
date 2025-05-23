@@ -62,7 +62,7 @@ I am a AI and robotics researcher. I’m working with the [PRIOR](https://prior.
   - Advisor Ranjay Krishna
 
 - **Boston University**, *Sep 2020 - May 2024*
-<br>*Bachelor of Arts in Computer Science *
+<br>*Bachelor of Arts in Computer Science*
 <br>*Cum Laude*
 <br>*Dean's List 2020 - 2024*
   - Advisor Eshed Ohn-Bar
