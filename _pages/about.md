@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a AI and robotics researcher. I’m working with the [PRIOR](https://prior.allenai.org/) team at the [Allen Institute for AI](https://allenai.org/), and I'm a master's student at the [University of Washington, Seattle](https://washington.edu/). I’m fortunate to be co-advised by [Ranjay Krishna](https://www.ranjaykrishna.com/) in the [RAVIN lab](https://raivn.cs.washington.edu/) lab, and [Dieter Fox](https://homes.cs.washington.edu/~fox/) in the [RSE lab](https://rse-lab.cs.washington.edu/) in UW. I work closely with [Jiafei Duan](https://duanjiafei.com/) and [Jieyu Zhang](https://jieyuz2.github.io/) at both AI2 and UW. My research focuses on robot learning and building internet scale robotics foundation models that can generalize to the real world.
+I am a AI and robotics researcher. I’m working with the [PRIOR](https://prior.allenai.org/) team at the [Allen Institute for AI](https://allenai.org/), and I'm a master's student at the [University of Washington, Seattle](https://washington.edu/). I’m fortunate to be co-advised by [Ranjay Krishna](https://www.ranjaykrishna.com/) in the [RAVIN lab](https://raivn.cs.washington.edu/), and [Dieter Fox](https://homes.cs.washington.edu/~fox/) in the [RSE lab](https://rse-lab.cs.washington.edu/) at UW. I work closely with [Jiafei Duan](https://duanjiafei.com/) and [Jieyu Zhang](https://jieyuz2.github.io/) at both AI2 and UW. My research focuses on robot learning and building internet scale robotics foundation models that can generalize to the real world.
 
 
 <!-- ## 🔥 News
