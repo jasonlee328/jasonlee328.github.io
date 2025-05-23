@@ -6,12 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- 
-<span id="handwave">👋🏻</span> Hi! I'm an undergraduate student and researcher at the [University of Washington (UW)](https://washington.edu/). I double major in computer science (with honors) and statistics, with a minor in mathematics. I am also a research collaborator working with the [Perceptual Reasoning and Interaction Research (PRIOR)](https://prior.allenai.org/) team at the [Allen Institute for Artificial Intelligence (Ai2)](https://allenai.org/).
+I am a AI and robotics researcher. I’m working with the [PRIOR](https://prior.allenai.org/) team at the [Allen Institute for AI](https://allenai.org/), and am a masters student at the [University of Washington, Seattle](https://washington.edu/). I’m fortunate to be co-advised by [Ranjay Krishna](https://www.ranjaykrishna.com/) in the [RAVIN lab](https://raivn.cs.washington.edu/) lab, and [Dieter Fox](https://homes.cs.washington.edu/~fox/) in the [RSE lab](https://rse-lab.cs.washington.edu/) in UW. I work closely with [Jiafei Duan](https://duanjiafei.com/) and [Jieyu Zhang](https://jieyuz2.github.io/) at both AI2 and UW. My research focuses on robot learning and building internet scale robotics foundation models that can generalize to the real world.
 
-At UW, I am fortunate to be co-advised by Prof [Ranjay Krishna](https://www.ranjaykrishna.com/) at the [Reasoning, AI, and VisioN (RAIVN) Lab](https://raivn.cs.washington.edu/) and Prof [Dieter Fox](https://homes.cs.washington.edu/~fox/) at the [Robotics and State Estimation (RSE) Lab](https://rse-lab.cs.washington.edu/) in UW [CSE](https://cs.washington.edu/). Before that, I was advised by Prof [Jenq-Neng Hwang](https://people.ece.uw.edu/hwang/) at the [Information Processing Lab (IPL)](https://ipl-uw.github.io/) in UW [ECE](https://www.ece.uw.edu/). I am also pleased to be mentored by Dr [Jiafei Duan](https://duanjiafei.com/) and Dr [Ying Jin](https://scholar.google.com/citations?user=MNrLDhwAAAAJ&hl=en/). At Ai2 PRIOR, I am fortunate to be mentored by Prof [Ranjay Krishna](https://www.ranjaykrishna.com/) and Dr [Jiafei Duan](https://duanjiafei.com/), and sponsored by Dr [Rose Hendrix](https://rosehendrix.com/).
-
-My research interests are broadly in the fields of computer vision, machine learning, and embodied AI. I am especially passionate about robot learning, imitation learning, behavior cloning, and foundation models for robotics. -->
 
 ## 🔥 News
 - **[May 2025]** Our paper *PointArena: Probing Multimodal Grounding Through Language-Guided Pointing* has been preprinted to arXiv.
