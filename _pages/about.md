@@ -9,11 +9,11 @@ redirect_from:
 I am a AI and robotics researcher. I’m working with the [PRIOR](https://prior.allenai.org/) team at the [Allen Institute for AI](https://allenai.org/), and am a masters student at the [University of Washington, Seattle](https://washington.edu/). I’m fortunate to be co-advised by [Ranjay Krishna](https://www.ranjaykrishna.com/) in the [RAVIN lab](https://raivn.cs.washington.edu/) lab, and [Dieter Fox](https://homes.cs.washington.edu/~fox/) in the [RSE lab](https://rse-lab.cs.washington.edu/) in UW. I work closely with [Jiafei Duan](https://duanjiafei.com/) and [Jieyu Zhang](https://jieyuz2.github.io/) at both AI2 and UW. My research focuses on robot learning and building internet scale robotics foundation models that can generalize to the real world.
 
 
-## 🔥 News
+<!-- ## 🔥 News
 - **[May 2025]** Our paper *PointArena: Probing Multimodal Grounding Through Language-Guided Pointing* has been preprinted to arXiv.
 <!-- - **[May 2025]** Our paper *SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation* has been accepted to [ICML 2025](https://icml.cc/).
 - **[Apr 2025]** Our paper *SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation* has been featured by [AI Index Report 2025](https://hai.stanford.edu/ai-index/2025-ai-index-report/).
-- **[Feb 2025]** Our paper *SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation* has been accepted to [WRL @ ICLR 2025](https://www.robot-learning.ml/2025/) and selected as <span style="color:red;">Oral Spotlight</span>. -->
+- **[Feb 2025]** Our paper *SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation* has been accepted to [WRL @ ICLR 2025](https://www.robot-learning.ml/2025/) and selected as <span style="color:red;">Oral Spotlight</span>. --> -->
 
 ## 📑 Selected Publications
 `*` Equal Contribution as First Authors &nbsp;&nbsp; `†` Equal Contribution as Second Authors &nbsp;&nbsp; `‡` Equal Contribution as Advisors
@@ -52,10 +52,6 @@ I am a AI and robotics researcher. I’m working with the [PRIOR](https://prior.
   - Advisor Eshed Ohn-Bar
 
 
-## Professional Services
-- **Conference Reviewer**
-  - Conference on Computer Vision and Pattern Recognition (CVPR) 2025 Workshop
-
 ## Education
 - **University of Washington**, *Sep 2024 - Jun 2026 (Expected)*
 <br>*Masters in Computer Engineering*
@@ -67,9 +63,12 @@ I am a AI and robotics researcher. I’m working with the [PRIOR](https://prior.
 <br>*Dean's List 2020 - 2024*
   - Advisor Eshed Ohn-Bar
 
+## Professional Services
+- **Conference Reviewer**
+  - Conference on Computer Vision and Pattern Recognition (CVPR) 2025 Workshop
+
+
 ## Industrial Experience
-
-
 - **Taiwan Semiconductor Manufacturing Company**, *Jun 2022 - Aug 2022*
 <br>*Research and Development Intern*
   - Manufacturing Technology RD Department 
@@ -82,9 +81,9 @@ I am a AI and robotics researcher. I’m working with the [PRIOR](https://prior.
   - Implemented Genetic Algorithm to solve lot and equipment discrepancies and improve manufacturing efficiency
 
 
-## 🏅 Teaching 
-- **Teaching Assistant**
-  - CS210: Computer Systems ([Spring 2025](https://courses.cs.washington.edu/courses/cse493g1/25sp/), Undergrad/Grad)
+## Teaching 
+- **Teaching Assistant**, *Sep 2021 - Jan 2023*
+  - CS210: Computer Systems 
 
 
 <script>
