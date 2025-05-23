@@ -13,7 +13,7 @@ I am a AI and robotics researcher. I’m working with the [PRIOR](https://prior.
 - **[May 2025]** Our paper *PointArena: Probing Multimodal Grounding Through Language-Guided Pointing* has been preprinted to arXiv.
 <!-- - **[May 2025]** Our paper *SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation* has been accepted to [ICML 2025](https://icml.cc/).
 - **[Apr 2025]** Our paper *SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation* has been featured by [AI Index Report 2025](https://hai.stanford.edu/ai-index/2025-ai-index-report/).
-- **[Feb 2025]** Our paper *SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation* has been accepted to [WRL @ ICLR 2025](https://www.robot-learning.ml/2025/) and selected as <span style="color:red;">Oral Spotlight</span>. --> -->
+- **[Feb 2025]** Our paper *SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation* has been accepted to [WRL @ ICLR 2025](https://www.robot-learning.ml/2025/) and selected as <span style="color:red;">Oral Spotlight</span>. --> 
 
 ## 📑 Selected Publications
 `*` Equal Contribution as First Authors &nbsp;&nbsp; `†` Equal Contribution as Second Authors &nbsp;&nbsp; `‡` Equal Contribution as Advisors
