@@ -38,12 +38,25 @@ I am a AI and robotics researcher. I’m working with the [PRIOR](https://prior.
 </div>
 </div>
 
+## Research Experience
+- **Allen Institute for AI**, *Jan 2025 - Present*
+<br>*PRIOR Team*
 
-## 📖 Professional Services
+- **University of Washington**, *Jun 2024 - Present*
+<br>*PRIOR*
+  - Advisor Ranjay Krishna
+  - Advisor Dieter Fox
+
+- **Boston University**, *Aug 2022 - Jun 2024*
+<br>*H2X Lab*
+  - Advisor Eshed Ohn-Bar
+
+
+## Professional Services
 - **Conference Reviewer**
   - Conference on Computer Vision and Pattern Recognition (CVPR) 2025 Workshop
 
-## 🎓 Education
+## Education
 - **University of Washington**, *Sep 2024 - Jun 2026 (Expected)*
 <br>*Masters in Computer Engineering*
   - Advisor Ranjay Krishna
@@ -54,9 +67,7 @@ I am a AI and robotics researcher. I’m working with the [PRIOR](https://prior.
 <br>*Dean's List 2020 - 2024*
   - Advisor Eshed Ohn-Bar
 
-## 💼 Industrial Experience
-- **Allen Institute for Artificial Intelligence**, *Mar 2025 - Present*
-<br>*PRIOR*
+## Industrial Experience
 
 
 - **Taiwan Semiconductor Manufacturing Company**, *Jun 2022 - Aug 2022*
