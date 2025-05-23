@@ -68,13 +68,11 @@ I am a AI and robotics researcher. I’m working with the [PRIOR](https://prior.
 ## Industrial Experience
 - **Taiwan Semiconductor Manufacturing Company**, *Jun 2022 - Aug 2022*
 <br>*Research and Development Intern*
-  - Manufacturing Technology RD Department 
   - Trained a Classification model to detect wafer scratches during the manufacturing process to improve repair and optimization processes.
 
 
 - **Taiwan Semiconductor Manufacturing Company**, *Jun 2021 - Aug 2021*
-<br>*Manufacturing Department Intern*
-  - Fab 18A 
+<br>*Manufacturing Department Intern at Fab18*
   - Implemented Genetic Algorithm to solve lot and equipment discrepancies and improve manufacturing efficiency
 
 
