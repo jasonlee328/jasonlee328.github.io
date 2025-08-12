@@ -88,7 +88,7 @@ Hee Jae Kim\*, Zekai Yin\*, Lei Lai, <ins>Jason Lee</ins>, Eshed Ohn-Bar
 
 - **Boston University**, *Aug 2022 - Jun 2024*
 <br>*H2X Lab with Eshed Ohn-Bar*
-  - Worked on Autonomous Driving simulation benchmark 
+  - Worked on Autonomous Driving in Simulation 
 
 
 ## Professional Services
