@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a AI and robotics researcher. I’m working with the [PRIOR](https://prior.allenai.org/) team at the [Allen Institute for AI](https://allenai.org/), and I'm a master's student at the [University of Washington, Seattle](https://washington.edu/). I’m fortunate to be co-advised by [Ranjay Krishna](https://www.ranjaykrishna.com/) in the [RAVIN lab](https://raivn.cs.washington.edu/), and [Dieter Fox](https://homes.cs.washington.edu/~fox/) in the [RSE lab](https://rse-lab.cs.washington.edu/) at UW.. My research focuses on robot learning and building internet scale robotics foundation models that can generalize to the real world.
+I am a AI and robotics researcher. I’m working with the [PRIOR](https://prior.allenai.org/) team at the [Allen Institute for AI](https://allenai.org/), and I'm a master's student at the [University of Washington, Seattle](https://washington.edu/). I’m fortunate to be co-advised by [Ranjay Krishna](https://www.ranjaykrishna.com/) in the [RAVIN lab](https://raivn.cs.washington.edu/), and [Dieter Fox](https://homes.cs.washington.edu/~fox/) in the [RSE lab](https://rse-lab.cs.washington.edu/) at UW. My research focuses on robot learning and building internet scale robotics foundation models that can generalize to the real world.
 
 
 <!-- ## 🔥 News
@@ -18,6 +18,29 @@ I am a AI and robotics researcher. I’m working with the [PRIOR](https://prior.
 
 
 ## 📑 Selected Publications
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/BranchOut.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**BranchOut: Capturing Realistic Multimodality in Autonomous Driving Decisions**
+<br>Hee Jae Kim\*, Zekai Yin\*, Lei Lai, Jason Lee, Eshed Ohn-Bar
+<br>*Conference on Robot Learning (Corl) 2025*
+<br>
+<!-- <a href="https://pointarena.github.io/">
+  <img src="https://img.shields.io/badge/Website-grey?logo=google-chrome&logoColor=white&labelColor=blue">
+</a>
+<a href="https://arxiv.org/pdf/2505.09990">
+  <img src="https://img.shields.io/badge/arXiv-grey?logo=arxiv&logoColor=white&labelColor=red">
+</a>
+<a href="https://github.com/pointarena/pointarena">
+  <img src="https://img.shields.io/badge/Code-grey?logo=github&logoColor=white&labelColor=black">
+</a>
+<a href="https://huggingface.co/datasets/PointArena/pointarena-data">
+  <img src="https://img.shields.io/badge/Dataset-grey?logo=huggingface&logoColor=white&labelColor=yellow">
+</a> -->
+</div>
+</div>
+
+
+
 `*` Equal Contribution as First Authors &nbsp;&nbsp; `†` Equal Contribution as Second Authors &nbsp;&nbsp; `‡` Equal Contribution as Advisors
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/cheng2025pointarena.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
