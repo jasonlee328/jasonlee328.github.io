@@ -47,7 +47,7 @@ My research focuses on robot learning and building internet-scale robotics found
 </div>
 <div class='paper-box-text' markdown="1">
 **BranchOut: Capturing Realistic Multimodality in Autonomous Driving Decisions**  
-Hee Jae Kim\*, Zekai Yin\*, Lei Lai, <ins>Jason Lee</ins>, Eshed Ohn-Bar  
+Hee Jae Kim, Zekai Yin, Lei Lai, <ins>Jason Lee</ins>, Eshed Ohn-Bar  
 *Conference on Robot Learning (CoRL) 2025*
 </div>
 </div>
