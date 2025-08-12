@@ -18,6 +18,29 @@ My research focuses on robot learning and building internet-scale robotics found
 
 ## 📑 Selected Publications
 
+`*` Equal Contribution as First Authors &nbsp;&nbsp; `†` Core Contributors
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/fig1_overview.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**MolmoAct Action Reasoning Models that can Reason in Space**
+<br>Jason Lee\*<sup>†</sup>, Jiafei Duan\*<sup>†</sup>, Haoquan Fang\*<sup>†</sup>, Yuquan Deng<sup>†</sup> , Shou Liu<sup>†</sup>,  Boyang Li<sup>†</sup>, Jieyu Zhang<sup>†</sup> Yi Ru Wang<sup>†</sup>, Sangho Lee, Winson Han, Wilbert Pumacay, Angelica Wu, Rose Hendrix, Karen Farley, Eli Vanderbilt, Ali Farhadi, Dieter Fox<sup>†</sup>, Ranjay Krishna<sup>†</sup>
+<!-- <br>*arXiv 2025* -->
+<br>
+<a href="https://allenai.org/blog/molmoact">
+  <img src="https://img.shields.io/badge/Website-grey?logo=google-chrome&logoColor=white&labelColor=blue">
+</a>
+<a href="https://huggingface.co/allenai/MolmoAct-7B-D-0812/blob/main/MolmoAct_Technical_Report.pdf">
+  <img src="https://img.shields.io/badge/arXiv-grey?logo=arxiv&logoColor=white&labelColor=red">
+</a>
+<!-- <a href="https://github.com/pointarena/pointarena">
+  <img src="https://img.shields.io/badge/Code-grey?logo=github&logoColor=white&labelColor=black">
+</a> -->
+<a href="https://huggingface.co/collections/allenai/molmoact-data-mixture-6897e583e13b6c2cf3ea2b80">
+  <img src="https://img.shields.io/badge/Dataset-grey?logo=huggingface&logoColor=white&labelColor=yellow">
+</a>
+</div>
+</div>
+
+
 <div class='paper-box'>
 <div class='paper-box-image' style="text-align: center;">
   <img src='images/BranchOut.gif' alt="BranchOut" width="100%">
