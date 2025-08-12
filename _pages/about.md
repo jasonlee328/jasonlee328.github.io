@@ -31,9 +31,9 @@ My research focuses on robot learning and building internet-scale robotics found
 <a href="https://huggingface.co/allenai/MolmoAct-7B-D-0812/blob/main/MolmoAct_Technical_Report.pdf">
   <img src="https://img.shields.io/badge/arXiv-grey?logo=arxiv&logoColor=white&labelColor=red">
 </a>
-<!-- <a href="https://github.com/pointarena/pointarena">
+<a href="https://huggingface.co/collections/allenai/molmoact-689697591a3936fba38174d7">
   <img src="https://img.shields.io/badge/Code-grey?logo=github&logoColor=white&labelColor=black">
-</a> -->
+</a>
 <a href="https://huggingface.co/collections/allenai/molmoact-data-mixture-6897e583e13b6c2cf3ea2b80">
   <img src="https://img.shields.io/badge/Dataset-grey?logo=huggingface&logoColor=white&labelColor=yellow">
 </a>
