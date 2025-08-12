@@ -54,6 +54,15 @@ I am a AI and robotics researcher. I’m working with the [PRIOR](https://prior.
   - Worked on Autonomous Driving simulation benchmark 
 
 
+## Professional Services
+- **Conference Reviewer**
+  - Conference on Computer Vision and Pattern Recognition (CVPR) 2025 Workshop
+
+- **Workshop Organizer**
+  - Workshop on 3D Vision Language Models for Robotic Manipulation [Robo-3DVLM](https://robo-3dvlms.github.io/) at CVPR 2025
+
+
+
 ## Education
 - **University of Washington**, *Sep 2024 - Jun 2026 (Expected)*
 <br>*Masters in Computer Engineering*
@@ -65,15 +74,9 @@ I am a AI and robotics researcher. I’m working with the [PRIOR](https://prior.
 <br>*Dean's List 2020 - 2024*
   - Advised by Eshed Ohn-Bar
 
-## Professional Services
-- **Conference Reviewer**
-  - Conference on Computer Vision and Pattern Recognition (CVPR) 2025 Workshop
-
-- **Workshop Organizer**
-  - Workshop on 3D Vision Language Models for Robotic Manipulation [Robo-3DVLM](https://robo-3dvlms.github.io/) at CVPR 2025
 
 
-## Industrial Experience
+<!-- ## Industrial Experience
 - **Taiwan Semiconductor Manufacturing Company**, *Jun 2022 - Aug 2022*
 <br>*Research and Development Intern*
   - Trained a Classification model to detect wafer scratches during the manufacturing process to improve repair and optimization processes.
@@ -81,7 +84,7 @@ I am a AI and robotics researcher. I’m working with the [PRIOR](https://prior.
 
 - **Taiwan Semiconductor Manufacturing Company**, *Jun 2021 - Aug 2021*
 <br>*Manufacturing Department Intern at Fab18*
-  - Implemented Genetic Algorithm to solve lot and equipment discrepancies and improve manufacturing efficiency
+  - Implemented Genetic Algorithm to solve lot and equipment discrepancies and improve manufacturing efficiency -->
 
 
 ## Teaching 
