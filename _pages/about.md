@@ -11,7 +11,7 @@ I am an AI and robotics researcher working with the [PRIOR](https://prior.allena
 
 My research focuses on robot learning and building internet-scale robotics foundation models that can generalize to the real world.
 
-**Actively Seeking PhD Positions for Fall 2026**
+**✨ Actively Seeking PhD Positions for Fall 2026 ✨**
 
 ---
 
