@@ -69,6 +69,9 @@ I am a AI and robotics researcher. I’m working with the [PRIOR](https://prior.
 - **Conference Reviewer**
   - Conference on Computer Vision and Pattern Recognition (CVPR) 2025 Workshop
 
+- **Workshop Organizer**
+  - Workshop on 3D Vision Language Models for Robotic Manipulation [Robo-3DVLM](https://robo-3dvlms.github.io/) at CVPR 2025
+
 
 ## Industrial Experience
 - **Taiwan Semiconductor Manufacturing Company**, *Jun 2022 - Aug 2022*
