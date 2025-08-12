@@ -22,7 +22,7 @@ I am a AI and robotics researcher. I’m working with the [PRIOR](https://prior.
 <div class='paper-box-text' markdown="1">
 **BranchOut: Capturing Realistic Multimodality in Autonomous Driving Decisions**
 <br>Hee Jae Kim\*, Zekai Yin\*, Lei Lai, <ins>Jason Lee</ins>, Eshed Ohn-Bar
-<br>*Conference on Robot Learning (Corl) 2025*
+<br>*Conference on Robot Learning (CoRL) 2025*
 <br>
 <!-- <a href="https://pointarena.github.io/">
   <img src="https://img.shields.io/badge/Website-grey?logo=google-chrome&logoColor=white&labelColor=blue">
