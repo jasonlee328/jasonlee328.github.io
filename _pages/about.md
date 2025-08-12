@@ -19,9 +19,9 @@ My research focuses on robot learning and building internet-scale robotics found
 ## 📑 Selected Publications
 
 `*` Equal Contribution as First Authors &nbsp;&nbsp; `†` Core Contributors
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/fig1_overview.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/MolmoAct.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**MolmoAct Action Reasoning Models that can Reason in Space**
+**MolmoAct: Action Reasoning Models that can Reason in Space**
 <br>Jason Lee\*<sup>†</sup>, Jiafei Duan\*<sup>†</sup>, Haoquan Fang\*<sup>†</sup>, Yuquan Deng<sup>†</sup> , Shou Liu<sup>†</sup>,  Boyang Li<sup>†</sup>, Jieyu Zhang<sup>†</sup> Yi Ru Wang<sup>†</sup>, Sangho Lee, Winson Han, Wilbert Pumacay, Angelica Wu, Rose Hendrix, Karen Farley, Eli Vanderbilt, Ali Farhadi, Dieter Fox<sup>†</sup>, Ranjay Krishna<sup>†</sup>
 <!-- <br>*arXiv 2025* -->
 <br>
