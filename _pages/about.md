@@ -79,7 +79,7 @@ Hee Jae Kim\*, Zekai Yin\*, Lei Lai, <ins>Jason Lee</ins>, Eshed Ohn-Bar
 ## Research Experience
 - **Allen Institute for AI**, *Jan 2025 - Present*
 <br>*PRIOR Team and the Robotics Team*
-  - Working on Action Reasoning Models (MolmoAct) and large scale data generation for non-prehensile manipulation 
+  - Working on Action Reasoning Models and large scale data generation for non-prehensile manipulation 
 
 - **University of Washington**, *Jun 2024 - Present*
 <br>*RAVIN Lab with Ranjay Krishna*
