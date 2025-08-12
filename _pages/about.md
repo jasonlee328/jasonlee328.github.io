@@ -42,12 +42,13 @@ I am a AI and robotics researcher. I’m working with the [PRIOR](https://prior.
 
 ## Research Experience
 - **Allen Institute for AI**, *Jan 2025 - Present*
-<br>*PRIOR Team*
-  - Working on Robotics Foundation Models
+<br>*PRIOR Team and the Robotics Team*
+  - Working on Action Reasoning Models (MolmoAct) and large scale data generation for non-prehensile manipulation 
 
 - **University of Washington**, *Jun 2024 - Present*
 <br>*RAVIN Lab with Ranjay Krishna*
-  - Working on Robotics Foundation Models
+<br>*RSE Lab with Dieter Fox*
+
 
 - **Boston University**, *Aug 2022 - Jun 2024*
 <br>*H2X Lab with Eshed Ohn-Bar*
