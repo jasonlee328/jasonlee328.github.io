@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI and robotics researcher working with the [PRIOR](https://prior.allenai.org/) team at the [Allen Institute for AI](https://allenai.org/), and a master's student at the [University of Washington, Seattle](https://washington.edu/). I am co-advised by [Ranjay Krishna](https://www.ranjaykrishna.com/) in the [RAIVN lab](https://raivn.cs.washington.edu/) and [Dieter Fox](https://homes.cs.washington.edu/~fox/) in the [RSE lab](https://rse-lab.cs.washington.edu/) at UW.  
+I am an AI and robotics researcher working on the [PRIOR](https://prior.allenai.org/) team and Robotics team at the [Allen Institute for AI](https://allenai.org/). I'm also a Master's student at the [University of Washington, Seattle](https://washington.edu/). I am co-advised by [Ranjay Krishna](https://www.ranjaykrishna.com/) in the [RAIVN lab](https://raivn.cs.washington.edu/) and [Dieter Fox](https://homes.cs.washington.edu/~fox/) in the [RSE lab](https://rse-lab.cs.washington.edu/) at UW.  
 
 My research focuses on robot learning and building internet-scale robotics foundation models that can generalize to the real world.
 
