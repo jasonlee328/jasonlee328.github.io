@@ -9,7 +9,7 @@ redirect_from:
 
 I am an AI and robotics researcher working on the [PRIOR](https://prior.allenai.org/) team and Robotics team at the [Allen Institute for AI](https://allenai.org/). I'm also a Master's student at the [University of Washington, Seattle](https://washington.edu/). I am co-advised by [Ranjay Krishna](https://www.ranjaykrishna.com/) in the [RAIVN lab](https://raivn.cs.washington.edu/) and [Dieter Fox](https://homes.cs.washington.edu/~fox/) in the [RSE lab](https://rse-lab.cs.washington.edu/) at UW.  
 
-My research focuses on robot learning and building internet-scale Robotics Foundation Models that can generalize to the real world. I explore a broad range of approaches to tackle robot generalization, including Vision-Language-Action Behavior Cloning, Reinforcement Learning for Non-prehensile Manipulation, and other techniques that bridge Simulation and Real-World deployment.
+My research focuses on robot learning and building internet-scale Robotics Foundation Models that can generalize to the real world. I explore a broad range of approaches to tackle robot generalization, including Action Reasnoning Models, Behavior Cloning, Reinforcement Learning for Non-prehensile Manipulation, and other techniques that bridge Simulation and Real-World deployment.
 
 **✨ Actively Seeking PhD Positions for Fall 2026 ✨**
 
