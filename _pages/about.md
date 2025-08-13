@@ -36,6 +36,9 @@ My research focuses on robot learning and building internet-scale robotics found
 <a href="https://huggingface.co/collections/allenai/molmoact-data-mixture-6897e583e13b6c2cf3ea2b80">
   <img src="https://img.shields.io/badge/Dataset-grey?logo=huggingface&logoColor=white&labelColor=yellow">
 </a>
+<a href="https://x.com/jason_lee328/status/1955274209107775912">
+  <img src="https://img.shields.io/badge/Post-grey?logo=x&logoColor=white&labelColor=black">
+</a>
 </div>
 </div>
 
