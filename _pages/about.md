@@ -11,7 +11,7 @@ I am an AI and robotics researcher working on the [PRIOR](https://prior.allenai.
 
 My research focuses on robot learning and building internet-scale Robotics Foundation Models that can generalize to the real world. I explore a broad range of approaches to tackle robot generalization, including Action Reasnoning Models, Behavior Cloning, Reinforcement Learning for Non-prehensile Manipulation, and other techniques that bridge Simulation and Real-World deployment.
 
-**✨ Actively Seeking PhD Positions for Fall 2026 ✨**
+**✨ Actively Seeking PhD Positions for Fall 2026 and other oppportunities ✨**
 
 ---
 
