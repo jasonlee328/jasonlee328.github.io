@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI and robotics researcher working on the [PRIOR](https://prior.allenai.org/) team and Robotics team at the [Allen Institute for AI](https://allenai.org/). I'm also a Master's student at the [University of Washington, Seattle](https://washington.edu/). I am co-advised by [Ranjay Krishna](https://www.ranjaykrishna.com/) in the [RAIVN lab](https://raivn.cs.washington.edu/) and [Dieter Fox](https://homes.cs.washington.edu/~fox/) in the [RSE lab](https://rse-lab.cs.washington.edu/) at UW.  
+I am a Master's student at the [University of Washington, Seattle](https://washington.edu/) advised by Professor [Dieter Fox](https://homes.cs.washington.edu/~fox/) in the [RSE lab](https://rse-lab.cs.washington.edu/) and [Ranjay Krishna](https://www.ranjaykrishna.com/) in the [RAIVN lab](https://raivn.cs.washington.edu/). I am also a student researcher at [Allen Institute for AI](https://allenai.org/) on the [PRIOR](https://prior.allenai.org/) and Robotics team where I led the development of MolmoAct, the first Action Reasoning Model that grounds actions in physical and 3D space. 
 
-My research focuses on robot learning and building internet-scale Robotics Foundation Models that can generalize to the real world. I explore a broad range of approaches to tackle robot generalization, including Action Reasnoning Models, Behavior Cloning, Reinforcement Learning for Non-prehensile Manipulation, and other techniques that bridge Simulation and Real-World deployment.
+My research focuses on robot learning, foundation models for robotics and reinforcement learning. Specifically, I am interested in scalable data-centric approaches that ground Vision-Language-Action (VLA) models in reasoning and enabling Robotics Foundation models to generalize in the real-world. 
 
 **✨ Actively Seeking PhD Positions for Fall 2026 and other oppportunities ✨**
 
